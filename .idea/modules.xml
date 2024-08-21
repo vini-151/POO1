@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/catolicaPOO.iml" filepath="$PROJECT_DIR$/catolicaPOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramacaoOrientadaAObjetos.iml" filepath="$PROJECT_DIR$/ProgramacaoOrientadaAObjetos.iml" />
     </modules>
   </component>
 </project>
